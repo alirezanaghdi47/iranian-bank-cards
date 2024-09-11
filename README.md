@@ -1,3 +1,3 @@
 # Iranian Bank Cards
 
-collection of bank cards with json format + icons
+the collection of iranian bank cards with json & icons
