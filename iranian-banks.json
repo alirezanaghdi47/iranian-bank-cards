@@ -1,0 +1,224 @@
+[
+    {
+      "value": "blue",
+      "title": "بلو بانک",
+      "bin": "62198",
+      "color": "#6684fa"
+    },
+    {
+      "value": "sanat-madan",
+      "title": "بانک صنعت و معدن",
+      "bin": "62796",
+      "color": "#193981"
+    },
+    {
+      "value": "mellat",
+      "title": "بانک ملت",
+      "bin": "61043",
+      "color": "#cb232d"
+    },
+    {
+      "value": "refah",
+      "title": "بانک رفاه کارگران",
+      "bin": "58946",
+      "color": "#253f95"
+    },
+    {
+      "value": "melal",
+      "title": "موسسه اعتباری ملل",
+      "bin": "60625",
+      "color": "#ee812c"
+    },
+    {
+      "value": "maskan",
+      "title": "بانک مسکن",
+      "bin": "62802",
+      "color": "#f16335"
+    },
+    {
+      "value": "sepah",
+      "title": "بانک سپه",
+      "bin": "58921",
+      "color": "#1192e1"
+    },
+    {
+      "value": "keshavarzi",
+      "title": "بانک کشاورزی",
+      "bin": "60377",
+      "color": "#0ca056"
+    },
+    {
+      "value": "melli",
+      "title": "بانک ملی ایران",
+      "bin": "60379",
+      "color": "#f2c43e"
+    },
+    {
+      "value": "tejarat",
+      "title": "بانک تجارت",
+      "bin": "62735",
+      "color": "#324284"
+    },
+    {
+      "value": "tejarat",
+      "title": "بانک تجارت",
+      "bin": "58598",
+      "color": "#324284"
+    },
+    {
+      "value": "saderat",
+      "title": "بانک صادرات ایران",
+      "bin": "60376",
+      "color": "#2b146c"
+    },
+    {
+      "value": "tosee-saderat",
+      "title": "بانک توسعه صادرات ایران",
+      "bin": "62764",
+      "color": "#066a13"
+    },
+    {
+      "value": "post",
+      "title": "پست بانک",
+      "bin": "62776",
+      "color": "#058943"
+    },
+    {
+      "value": "tosee-taavon",
+      "title": "بانک توسعه تعاون",
+      "bin": "50290",
+      "color": "#0c8a92"
+    },
+    {
+      "value": "karafarin",
+      "title": "بانک کارآفرین",
+      "bin": "62748",
+      "color": "#167216"
+    },
+    {
+      "value": "parsian",
+      "title": "بانک پارسیان",
+      "bin": "62210",
+      "color": "#9e1020"
+    },
+    {
+      "value": "en",
+      "title": "بانک اقتصاد نوین",
+      "bin": "62741",
+      "color": "#701e71"
+    },
+    {
+      "value": "saman",
+      "title": "بانک سامان",
+      "bin": "62198",
+      "color": "#7ad0f3"
+    },
+    {
+      "value": "pasargad",
+      "title": "بانک پاسارگاد",
+      "bin": "50222",
+      "color": "#f3c537"
+    },
+    {
+      "value": "sarmayeh",
+      "title": "بانک سرمایه",
+      "bin": "63960",
+      "color": "#0e436b"
+    },
+    {
+      "value": "sina",
+      "title": "بانک سینا",
+      "bin": "63934",
+      "color": "#16449a"
+    },
+    {
+      "value": "mehr-iran",
+      "title": "بانک قرضالحسنه مهر ایران",
+      "bin": "60637",
+      "color": "#73bb44"
+    },
+    {
+      "value": "shahr",
+      "title": "بانک شهر",
+      "bin": "50470",
+      "color": "#da0405"
+    },
+    {
+      "value": "ayandeh",
+      "title": "بانک آینده",
+      "bin": "63621",
+      "color": "#d2a43c"
+    },
+    {
+      "value": "ansar",
+      "title": "بانک انصار",
+      "bin": "62738",
+      "color": "#bf3839"
+    },
+    {
+      "value": "tourism",
+      "title": "بانک گردشگری",
+      "bin": "50541",
+      "color": "#ae1117"
+    },
+    {
+      "value": "hekmat",
+      "title": "بانک حکمت ایرانیان",
+      "bin": "63694",
+      "color": "#055ba9"
+    },
+    {
+      "value": "day",
+      "title": "بانک دی",
+      "bin": "50293",
+      "color":"#06889b"
+    },
+    {
+      "value": "iran-zamin",
+      "title": "بانک ایران زمین",
+      "bin": "50578",
+      "color": "#ea058b"
+    },
+    {
+      "value": "resalat",
+      "title": "بانک قرض الحسنه رسالت",
+      "bin": "50417",
+      "color": "#059aac"
+    },
+    {
+      "value": "middle-east",
+      "title": "بانک خاورمیانه",
+      "bin": "50580",
+      "color": "#f18c05"
+    },
+    {
+      "value": "middle-east",
+      "title": "بانک خاورمیانه",
+      "bin": "58594",
+      "color": "#f18c05"
+    },
+    {
+      "value": "ghavamin",
+      "title": "بانک قوامین",
+      "bin": "63959",
+      "color":"#06a353"
+    },
+    {
+      "value": "kosar",
+      "title": "موسسه مالی و اعتباری کوثر",
+      "bin": "50580",
+      "color": "#880e10"
+    },
+    {
+      "value": "venezuela",
+      "title": "بانک ایران ونزوئلا",
+      "bin": "58187",
+      "color": "#2e3390"
+    },
+    {
+      "value": "noor",
+      "title": "موسسه نور",
+      "bin": "50767",
+      "color": "#90d4e1"
+    }
+  ]
